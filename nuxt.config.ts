@@ -2,6 +2,8 @@
 export default defineNuxtConfig({
   extends: ['@nuxt/ui-pro'],
 
+  css: ['@/assets/css/main.css'],
+
   modules: [
     '@nuxt/content',
     '@nuxt/eslint',

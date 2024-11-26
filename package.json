@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-ui-pro-template-saas",
+  "name": "repo-booster",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -28,10 +28,13 @@
   "devDependencies": {
     "@nuxt/eslint": "^0.6.0",
     "@nuxthq/studio": "^2.1.1",
-    "eslint": "^9.13.0",
-    "vue-tsc": "^2.1.6",
     "@types/node": "^20.7.1",
-    "netlify-cli": "^16.1.0"
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.13.0",
+    "netlify-cli": "^16.1.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "vue-tsc": "^2.1.6"
   },
   "packageManager": "pnpm@9.12.2"
 }

@@ -3,7 +3,7 @@ import { field, group } from '@nuxthq/studio/theme'
 export default defineNuxtSchema({
   appConfig: {
     ui: group({
-      title: 'UI',
+      title: 'Repo-Booster UI',
       description: 'UI Customization.',
       icon: 'i-mdi-palette-outline',
       fields: {

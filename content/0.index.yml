@@ -124,7 +124,7 @@ cta:
   title: Start Growing Your Repository Today
   description: Join thousands of developers who trust Repo-Booster to improve their GitHub visibility and engagement.
   links:
-    - label: Buy Now
+    - label: Upgrade to Pro
       size: xl
       color: black
       to: /pricing
